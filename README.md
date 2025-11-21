@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on **React, React Native, Nodejs, Firebase**
 
 - 🌱 I am learning to program full-stack
-- 
+
 - 💬 Ask me about **Java, JavaScript, react, nodejs, Firebase**
 
 - 📫 Feel free to reach me out **cristoferponcerivera@gmail.com**
