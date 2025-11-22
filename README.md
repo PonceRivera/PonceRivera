@@ -21,7 +21,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, React Native, Nodejs, Firebase**
+- 🔭 I’m currently working on **React, Nodejs, Firebase**
 
 - 🌱 I am learning to program full-stack
 
